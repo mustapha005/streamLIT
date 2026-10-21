@@ -27,6 +27,7 @@ An interactive Streamlit application that suggests the next word using unigram, 
 
 4. Leave secrets empty; this app does not require any.
 5. Click **Deploy**. Streamlit installs `requirements.txt` and starts the app.
+   https://app-folzarnccxyxyjfivwdztw.streamlit.app/
 
 The corpus is included in the repository and the models train in memory at startup. There is no separate training or data upload step. If GitHub repository access is requested, grant Streamlit access to this repository.
 
