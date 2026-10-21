@@ -12,26 +12,9 @@ An interactive Streamlit application that suggests the next word using unigram, 
 - Browse the corpus, search sentences, and explore word frequencies.
 - Download your text or evaluation results.
 
-## Deploy on Streamlit Community Cloud
+## Streamlit Community Cloud url 
 
-1. Sign in to [Streamlit Community Cloud](https://share.streamlit.io/) with GitHub.
-2. Select **Create app**, then deploy an app from GitHub.
-3. Use these settings:
-
-   | Setting | Value |
-   | --- | --- |
-   | Repository | `mustapha005/streamLIT` |
-   | Branch | `main` |
-   | Main file path | `app.py` |
-   | Python version (Advanced settings) | `3.12` |
-
-4. Leave secrets empty; this app does not require any.
-5. Click **Deploy**. Streamlit installs `requirements.txt` and starts the app.
-   https://app-folzarnccxyxyjfivwdztw.streamlit.app/
-
-The corpus is included in the repository and the models train in memory at startup. There is no separate training or data upload step. If GitHub repository access is requested, grant Streamlit access to this repository.
-
-See the [official deployment guide](https://docs.streamlit.io/deploy/streamlit-community-cloud/deploy-your-app/deploy) and [dependency guide](https://docs.streamlit.io/deploy/streamlit-community-cloud/deploy-your-app/app-dependencies).
+https://app-folzarnccxyxyjfivwdztw.streamlit.app/
 
 ## Run locally
 
