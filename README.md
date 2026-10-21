@@ -1,5 +1,5 @@
 # Smart Keyboard — N-gram Prediction Lab
-
+# Mustapha AARAB
 An interactive Streamlit application that suggests the next word using unigram, bigram, and trigram language models. Built for Lab 02 using a small synthetic English corpus. No API keys or external model downloads are required.
 
 ## Features
